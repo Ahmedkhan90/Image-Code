@@ -16,7 +16,7 @@ img {
  .btn {
     background-color: gray;
     font-weight: bolder;
-    width: 100px;
+    width: 80px;
     height: 30px;
     border: 1px solid black;
     display: inline;
@@ -40,15 +40,16 @@ max-width: 1200px;   */
 }
 
 .btn4 {
-    width: 100px;
+    width: 80px;
     height: 30px;
-    margin-left: 90.55%;
+    /* margin-left: 60.55%; */
     background-color: cornflowerblue;
     font-weight: bolder;
     border: 1px solid black;
     display: inline;
     /* min-width: auto;
 max-width: auto; */
+float: right;
 }
 
 /* body {
